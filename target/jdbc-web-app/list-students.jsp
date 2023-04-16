@@ -21,7 +21,7 @@
 
 <div id="wrapper">
     <div id="header">
-        <h2>FooBar University</h2>
+        <h2>Students List</h2>
     </div>
 </div>
 
